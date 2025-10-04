@@ -95,7 +95,9 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 
 ### Graphics & 3D
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-**JOGL** • **GLM** • **GLSL** • **BGI** • **WinBGIm** • **3D Game Programming**
+![JOGL](https://img.shields.io/badge/JOGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+![GLM](https://img.shields.io/badge/GLM-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+**GLSL** • **BGI** • **WinBGIm** • **3D Game Programming**
 
 ### Other Technologies
 ![Microsoft Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
