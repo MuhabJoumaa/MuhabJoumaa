@@ -114,7 +114,7 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 - **3D Game Engine (C/C++, OpenGL GLM):**  
   Developed a full-featured engine from scratch with motion physics, shadow/fog rendering, camera control, and collision for interactive 3D games.
 
-- [<img src="https://the-green-one-game.s3.us-west-004.backblazeb2.com/%D0%B8%D0%B3%D1%80%D0%B0.jpg" width="80" align="left" style="margin-right: 15px;">](https://muhab-joumaa.itch.io)
+- [<img src="https://the-green-one-game.s3.us-west-004.backblazeb2.com/%D0%B8%D0%B3%D1%80%D0%B0.jpg" width="80" align="left" style="margin-right: 15px;">](https://muhab-joumaa.itch.io/the-green-one)
 
 **2D/3D Online Game (Java):**  
 Built a cross-platform game with advanced social features and a custom engine. 3D assets created in Blender.  
