@@ -10,17 +10,100 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 
 ## 🚀 Skills at a Glance
 
-- **Programming:** Java, C/C++, Python, C#, Kotlin, JavaScript, Assemblers (NASM, MASM32, MASM16, TASM, FASM), Bash, SQL, TSQL, PL/SQL
-- **Web Technologies & Data Exchange Languages:** HTML, CSS, Django, Flask, Bootstrap, jQuery, FontAwesome, JSON, XML
-- **Frameworks & Libraries:** Entity Framework, JavaFX, Java Swing, Java AWT, JDBC, JUnit, Mockito Framework, C++ Standard Template Library (STL), .NET, Windows Presentation Foundation (WPF), Windows Forms, Tkinter
-- **Databases:** PostgreSQL, MySQL, MS SQL Server, MongoDB, Neo4j AuraDB, SQLite
-- **ML & Data Science:** TensorFlow, PyTorch, Scikit-Learn, Matplotlib, NumPy, Pandas, Ontologies
-- **Mathematical Modeling:** MATLAB, Maple, Scilab, GeoGebra
-- **Mathematics:** Numerical Methods, Linear Algebra, Mathematical Analysis, Differential Equations
-- **IDEs & Tools:** NetBeans, Eclipse IDE, Visual Studio, VS Code, IntelliJ IDEA, Android Studio, PyCharm, Google Colab, Jupyter Notebook, StarUML, Visual Paradigm, BPwin, SQL Server Management Studio, MySQL Workbench, Protege, GitHub, Blender
-- **Network Protocols:** HTTP, HTTPS, FTP, POP3, IMAP, SMTP
-- **Graphics & 3D:** OpenGL, JOGL, GLM, GLSL, BGI, WinBGIm, 3D Game Programming
-- **Other:** MS Office, MS Azure, Docker, Agile Methodology, OOP, UML, Multithreading, Algorithms & Data Structures, Parallel Computing: MPI & MPJ, JNI, Linux, Windows
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Assembly](https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Web Technologies & Data Exchange
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-%23538DD7.svg?style=for-the-badge&logo=fontawesome&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
+![XML](https://img.shields.io/badge/XML-%23e34c26.svg?style=for-the-badge&logo=xml&logoColor=white)
+
+### Frameworks & Libraries
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-%2325A162.svg?style=for-the-badge&logo=java&logoColor=white)
+![STL](https://img.shields.io/badge/C++_STL-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Ontologies](https://img.shields.io/badge/Ontologies-%23FF6F00.svg?style=for-the-badge&logo=semanticweb&logoColor=white)
+
+### Mathematical Modeling
+![MATLAB](https://img.shields.io/badge/MATLAB-%23FF6F00.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![Maple](https://img.shields.io/badge/Maple-%23CC0000.svg?style=for-the-badge&logoColor=white)
+![Scilab](https://img.shields.io/badge/Scilab-%23CC0000.svg?style=for-the-badge&logoColor=white)
+![GeoGebra](https://img.shields.io/badge/GeoGebra-%23185FA6.svg?style=for-the-badge&logoColor=white)
+
+### Mathematics
+- **Numerical Methods** • **Linear Algebra** • **Mathematical Analysis** • **Differential Equations**
+
+### IDEs & Tools
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Google Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![StarUML](https://img.shields.io/badge/StarUML-%23FF0000.svg?style=for-the-badge&logoColor=white)
+![Visual Paradigm](https://img.shields.io/badge/Visual_Paradigm-%23FF0000.svg?style=for-the-badge&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+**BPwin** • **SSMS** • **MySQL Workbench** • **Protege**
+
+### Network Protocols
+![HTTP](https://img.shields.io/badge/HTTP-%23005C9C.svg?style=for-the-badge&logoColor=white)
+![HTTPS](https://img.shields.io/badge/HTTPS-%23005C9C.svg?style=for-the-badge&logoColor=white)
+**FTP** • **POP3** • **IMAP** • **SMTP**
+
+### Graphics & 3D
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+**JOGL** • **GLM** • **GLSL** • **BGI** • **WinBGIm** • **3D Game Programming**
+
+### Other Technologies
+![Microsoft Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+**Agile** • **OOP** • **UML** • **Multithreading** • **Data Structures & Algorithms** • **MPI & MPJ** • **JNI**
 
 ---
 
