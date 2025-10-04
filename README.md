@@ -91,6 +91,14 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 
 ---
 
+## Portfolio
+
+- **Itch.io:** muhab-joumaa.itch.io
+- **VK Play:** www.vkplay.ru/play/game/the_green_one
+- **Kaggle:** www.kaggle.com/mohabjm
+- **My reviews on Avito (in Russian):** www.avito.ru/nizhniy_novgorod/predlozheniya_uslug/pomosch_po_programmirovaniyu_3411355828
+- **ArtStation:** muhabjoumaa.artstation.com
+
 <p align="center">
   <em>“Striving to turn complex ideas into interactive experiences and innovative solutions.”</em>
 </p>
