@@ -70,7 +70,7 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 ![GeoGebra](https://img.shields.io/badge/GeoGebra-%23185FA6.svg?style=for-the-badge&logoColor=white)
 
 ### Mathematics
-- **Numerical Methods** • **Linear Algebra** • **Mathematical Analysis** • **Differential Equations**
+**Numerical Methods** • **Linear Algebra** • **Mathematical Analysis** • **Differential Equations**
 
 ### IDEs & Tools
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
