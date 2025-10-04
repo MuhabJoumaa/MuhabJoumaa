@@ -181,7 +181,7 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 ## Portfolio
 
 [![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://muhab-joumaa.itch.io)
-[![VK Play](https://img.shields.io/badge/VK_Play-%230077FF.svg?style=for-the-badge&logo=vk&logoColor=white)](https://www.vkplay.ru/play/game/the_green_one)
+[![VK Play](https://img.shields.io/badge/VK_Play-%230077FF.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vkplay.ru/play/game/the_green_one)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mohabjm)
 [![Avito](https://img.shields.io/badge/Avito-%2300AAFF.svg?style=for-the-badge&logoColor=white)](https://www.avito.ru/nizhniy_novgorod/predlozheniya_uslug/pomosch_po_programmirovaniyu_3411355828)
 [![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?style=for-the-badge&logo=artstation&logoColor=white)](https://muhabjoumaa.artstation.com)
