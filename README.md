@@ -64,7 +64,7 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 ![Ontologies](https://img.shields.io/badge/Ontologies-%23FF6F00.svg?style=for-the-badge&logo=semanticweb&logoColor=white)
 
 ### Mathematical Modeling
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width=40 height=40 background=white /> <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Maple_2015_logo.svg" width=40 height=40 background=white /> <img src="https://www.svgrepo.com/show/374065/scilab.svg" width=40 height=40 background=white /> <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Geogebra.svg" width=40 height=40 background=white />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="background-color: white" width=40 height=40 /> <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Maple_2015_logo.svg" style="background-color: white" width=40 height=40 /> <img src="https://www.svgrepo.com/show/374065/scilab.svg" style="background-color: white" width=40 height=40 /> <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Geogebra.svg" style="background-color: white" width=40 height=40 />
 
 ### Mathematics
 **Numerical Methods** • **Linear Algebra** • **Mathematical Analysis** • **Differential Equations**
@@ -101,7 +101,7 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=30 height=30 background=white />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="background-color: white" width=30 height=30 />
 **Agile** • **OOP** • **UML** • **Multithreading** • **Data Structures & Algorithms** • **MPI & MPJ** • **JNI**
 
 ---
