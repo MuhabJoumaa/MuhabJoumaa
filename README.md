@@ -65,6 +65,7 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 
 ### Mathematical Modeling
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width=35 height=35 />
+
 ![Maple](https://img.shields.io/badge/Maple-%23CC0000.svg?style=for-the-badge&logoColor=white)
 ![Scilab](https://img.shields.io/badge/Scilab-%23CC0000.svg?style=for-the-badge&logoColor=white)
 ![GeoGebra](https://img.shields.io/badge/GeoGebra-%23185FA6.svg?style=for-the-badge&logoColor=white)
