@@ -64,7 +64,7 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 ![Ontologies](https://img.shields.io/badge/Ontologies-%23FF6F00.svg?style=for-the-badge&logo=semanticweb&logoColor=white)
 
 ### Mathematical Modeling
-![MATLAB](https://img.shields.io/badge/MATLAB-%23FF6F00.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width=35 height=35 />
 ![Maple](https://img.shields.io/badge/Maple-%23CC0000.svg?style=for-the-badge&logoColor=white)
 ![Scilab](https://img.shields.io/badge/Scilab-%23CC0000.svg?style=for-the-badge&logoColor=white)
 ![GeoGebra](https://img.shields.io/badge/GeoGebra-%23185FA6.svg?style=for-the-badge&logoColor=white)
@@ -104,7 +104,7 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=30 height=30 />
 **Agile** • **OOP** • **UML** • **Multithreading** • **Data Structures & Algorithms** • **MPI & MPJ** • **JNI**
 
 ---
