@@ -10,15 +10,17 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 
 ## 🚀 Skills at a Glance
 
-- **Programming:** Java, C/C++, Python, C#, Kotlin, JavaScript, Assemblers (NASM, MASM, TASM, FASM), Bash, SQL, T-SQL, PL/SQL
-- **Web:** HTML, CSS, Django, Flask, Bootstrap, jQuery, JSON, XML
-- **Frameworks:** Entity Framework, JavaFX, Swing/AWT, JDBC, JUnit, Mockito, STL, .NET, WPF, Tkinter
-- **Databases:** PostgreSQL, MySQL, SQL Server, MongoDB, Neo4j, SQLite
-- **ML/Data Science:** TensorFlow, PyTorch, Scikit-Learn, Matplotlib, NumPy, Pandas, Ontologies
+- **Programming:** Java, C/C++, Python, C#, Kotlin, JavaScript, Assemblers (NASM, MASM32, MASM16, TASM, FASM), Bash, SQL, TSQL, PL/SQL
+- **Web Technologies & Data Exchange Languages:** HTML, CSS, Django, Flask, Bootstrap, jQuery, FontAwesome, JSON, XML
+- **Frameworks & Libraries:** Entity Framework, JavaFX, Java Swing, Java AWT, JDBC, JUnit, Mockito Framework, C++ Standard Template Library (STL), .NET, Windows Presentation Foundation (WPF), Windows Forms, Tkinter
+- **Databases:** PostgreSQL, MySQL, MS SQL Server, MongoDB, Neo4j AuraDB, SQLite
+- **ML & Data Science:** TensorFlow, PyTorch, Scikit-Learn, Matplotlib, NumPy, Pandas, Ontologies
 - **Mathematical Modeling:** MATLAB, Maple, Scilab, GeoGebra
-- **Tools:** NetBeans, Eclipse, Visual Studio, VS Code, IntelliJ, Android Studio, PyCharm, Blender, GitHub
-- **Graphics/3D:** OpenGL, Java OpenGL, GLM, GLSL, BGI, WinBGIm
-- **Other:** Docker, Agile, OOP, UML, Multithreading, Parallel Computing (MPI & MPJ), Linux, Windows
+- **Mathematics:** Numerical Methods, Linear Algebra, Mathematical Analysis, Differential Equations
+- **IDEs & Tools:** NetBeans, Eclipse IDE, Visual Studio, VS Code, IntelliJ IDEA, Android Studio, PyCharm, Google Colab, Jupyter Notebook, StarUML, Visual Paradigm, BPwin, SQL Server Management Studio, MySQL Workbench, Protege, GitHub, Blender
+- **Network Protocols:** HTTP, HTTPS, FTP, POP3, IMAP, SMTP
+- **Graphics & 3D:** OpenGL, JOGL, GLM, GLSL, BGI, WinBGIm, 3D Game Programming
+- **Other:** MS Office, MS Azure, Docker, Agile Methodology, OOP, UML, Multithreading, Algorithms & Data Structures, Parallel Computing: MPI & MPJ, JNI, Linux, Windows
 
 ---
 
