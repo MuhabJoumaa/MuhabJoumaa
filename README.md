@@ -115,8 +115,6 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 Built a cross-platform game with advanced social features and a custom engine. 3D assets created in Blender.  
 _Published on Itch.io and VK Play._
 
-<br clear="left"/>
-
 - **Network Dice Game (Java):**  
   Multiplayer dice game with real-time data and multithreading.
 
