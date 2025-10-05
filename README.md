@@ -101,7 +101,7 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="background-color: white" width=30 height=30 /> **Windows** **Agile** • **OOP** • **UML** • **Multithreading** • **Data Structures & Algorithms** • **MPI & MPJ** • **JNI**
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="background-color: white" width=30 height=30 />] **Windows** **Agile** • **OOP** • **UML** • **Multithreading** • **Data Structures & Algorithms** • **MPI & MPJ** • **JNI**
 
 ---
 
