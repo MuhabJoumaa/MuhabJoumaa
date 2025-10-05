@@ -101,7 +101,7 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="background-color: white" width=30 height=30 />] **Windows** **Agile** • **OOP** • **UML** • **Multithreading** • **Data Structures & Algorithms** • **MPI & MPJ** • **JNI**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="background-color: white" width=30 height=30 /> **Windows** **Agile** • **OOP** • **UML** • **Multithreading** • **Data Structures & Algorithms** • **MPI & MPJ** • **JNI**
 
 ---
 
@@ -183,7 +183,7 @@ _Published on Itch.io and VK Play._
 [![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://muhab-joumaa.itch.io)
 [![VK Play](https://img.shields.io/badge/VK_Play-%230077FF.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vkplay.ru/play/game/the_green_one)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mohabjm)
-[![Avito](https://img.shields.io/badge/Avito-%2300AAFF.svg?style=for-the-badge&logoColor=white)](https://www.avito.ru/nizhniy_novgorod/predlozheniya_uslug/pomosch_po_programmirovaniyu_3411355828)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Avito_logo.svg" style="background-color: white" width=35 height=35 />(https://www.avito.ru/nizhniy_novgorod/predlozheniya_uslug/pomosch_po_programmirovaniyu_3411355828)
 [![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?style=for-the-badge&logo=artstation&logoColor=white)](https://muhabjoumaa.artstation.com)
 
 <p align="center">
