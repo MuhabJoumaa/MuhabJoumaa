@@ -36,7 +36,7 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 ### Frameworks & Libraries
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-<img src="https://the-green-one-game.s3.us-west-004.backblazeb2.com/JavaFX_Logo.png" style="background-color: white" width=50 height=50 />
+<img src="https://the-green-one-game.s3.us-west-004.backblazeb2.com/JavaFX_Logo.png" style="background-color: white" width=70 height=70 />
 ![Java Swing](https://img.shields.io/badge/Java_Swing-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
