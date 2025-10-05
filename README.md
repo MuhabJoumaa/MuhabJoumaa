@@ -92,7 +92,7 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 
 ### Graphics & 3D
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![JOGL](https://img.shields.io/badge/JOGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+<img src="https://f004.backblazeb2.com/file/The-Green-One-Game/1000016910.png" style="background-color: white" width=40 height=40 />
 ![GLM](https://img.shields.io/badge/GLM-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 **GLSL** • **BGI** • **WinBGIm** • **3D Game Programming**
 
