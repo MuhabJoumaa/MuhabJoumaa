@@ -88,9 +88,7 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 **BPwin** • **SSMS** • **MySQL Workbench** <img src="https://dl.flathub.org/media/edu/stanford/protege/5f6cadb928e1e8ffeb467def1ae00020/icons/128x128/edu.stanford.protege.png" width=35 height=35 /> **Protege**
 
 ### Network Protocols
-![HTTP](https://img.shields.io/badge/HTTP-%23005C9C.svg?style=for-the-badge&logoColor=white)
-![HTTPS](https://img.shields.io/badge/HTTPS-%23005C9C.svg?style=for-the-badge&logoColor=white)
-**FTP** • **POP3** • **IMAP** • **SMTP**
+**HTTP** • **HTTPS** • **FTP** • **POP3** • **IMAP** • **SMTP**
 
 ### Graphics & 3D
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
@@ -103,7 +101,7 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="background-color: white" width=30 height=30 /> **Windows** **Agile** • **OOP** <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" style="background-color: white" width=45 height=45 /> **UML** • **Multithreading** • **Data Structures & Algorithms** • **MPI & MPJ** • **JNI**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="background-color: white" width=30 height=30 /> **Windows** • **Agile** • **OOP** <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" style="background-color: white" width=45 height=45 /> **UML** • **Multithreading** • **Data Structures & Algorithms** • **MPI & MPJ** • **JNI**
 
 ---
 
