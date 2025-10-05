@@ -79,7 +79,7 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-<img src="https://upload.wikimedia.org/wikipedia/fr/3/32/Staruml_logo.png" style="background-color: white" width=40 height=40 /> **StarUML**
+<img src="https://upload.wikimedia.org/wikipedia/fr/3/32/Staruml_logo.png" style="background-color: white" width=35 height=35 /> **StarUML**
 ![Visual Paradigm](https://img.shields.io/badge/Visual_Paradigm-%23FF0000.svg?style=for-the-badge&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
