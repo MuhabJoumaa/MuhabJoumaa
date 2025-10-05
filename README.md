@@ -70,7 +70,7 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 **Numerical Methods** • **Linear Algebra** • **Mathematical Analysis** • **Differential Equations**
 
 ### IDEs & Tools
-![Code::Blocks](https://img.shields.io/badge/Code::Blocks-blue?logo=codeblocks&logoColor=red)
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-blue?logo=codeblocks&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
