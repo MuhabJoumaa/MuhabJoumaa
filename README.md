@@ -125,7 +125,6 @@ _Published on Itch.io and VK Play._
   2D game (MASM16), keyboard interrupt handler (TASM), real-time OS simulation (MASM32).
 
 **Other Notable Projects:**
-- Physics engine for 3D racing games (CarX LLC)
 - Django Educational Management Web App
 - Financial management systems (C#/.NET)
 - Machine learning models for price and brand prediction
