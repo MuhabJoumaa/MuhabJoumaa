@@ -152,7 +152,7 @@ _Published on Itch.io and VK Play._
 
 - **Arabic:** Native
 - **English:** B2
-- **German:** B1
+- **German:** A2-B1
 - **Russian:** B2
 - **French:** A1
 
