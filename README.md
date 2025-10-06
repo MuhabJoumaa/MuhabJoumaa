@@ -177,8 +177,6 @@ _Published on Itch.io and VK Play._
 ## GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhabJoumaa&layout=compact)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MuhabJoumaa)
-![Profile views](https://count.getloli.com/get/@MuhabJoumaa?theme=rule34)
 
 ## Portfolio
 
