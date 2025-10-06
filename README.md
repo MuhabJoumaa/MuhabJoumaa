@@ -174,6 +174,11 @@ _Published on Itch.io and VK Play._
 
 ---
 
+## GitHub Stats
+
+![MuhabJoumaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhabJoumaa&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhabJoumaa&layout=compact)
+
 ## Portfolio
 
 [![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://muhab-joumaa.itch.io)
