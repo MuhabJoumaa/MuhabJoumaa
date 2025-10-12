@@ -86,7 +86,7 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23121011.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-**BPwin** • **SSMS** • **MySQL Workbench** <img src="https://dl.flathub.org/media/edu/stanford/protege/5f6cadb928e1e8ffeb467def1ae00020/icons/128x128/edu.stanford.protege.png" width=35 height=35 /> **Protege**
+**BPwin** • **SSMS** • **MySQL Workbench** • <img src="https://dl.flathub.org/media/edu/stanford/protege/5f6cadb928e1e8ffeb467def1ae00020/icons/128x128/edu.stanford.protege.png" width=35 height=35 /> **Protege**
 
 ### Network Protocols
 **HTTP** • **HTTPS** • **FTP** • **POP3** • **IMAP** • **SMTP**
