@@ -22,6 +22,8 @@ Dedicated Java & C++ software developer and mathematics expert with 2+ years of 
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Pascal](https://img.shields.io/badge/Pascal-%23E3F171.svg?style=for-the-badge&logo=delphi&logoColor=black)
+![Clojure]
+(https://img.shields.io/badge/Clojure-%23E3F171.svg?style=for-the-badge&logo=clojure&logoColor=white)
 
 ### Web Technologies & Data Exchange
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
