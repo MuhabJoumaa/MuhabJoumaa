@@ -153,8 +153,8 @@ _Published on Itch.io and VK Play._
 ## 🗣️ Languages
 
 - **Arabic:** Native
-- **English:** B2
-- **German:** A2-B1
+- **English:** B2-C1
+- **German:** B1
 - **Russian:** B2
 - **French:** A1
 
