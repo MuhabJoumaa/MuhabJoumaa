@@ -162,7 +162,7 @@ _Published on Itch.io and VK Play._
 
 ## 📜 Certifications
 
-- Duolingo English Test (2025)
+- Duolingo English Test - B2+ (2025)
 - TOEFL English (2019)
 - Goethe German (2024)
 - Pre-university Russian Engineering Course (2020)
