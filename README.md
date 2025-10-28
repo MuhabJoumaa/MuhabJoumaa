@@ -140,6 +140,7 @@ _Published on Itch.io and VK Play._
 - Gratitude for presenting my game project at the 2024 Game Development and Game Engine Development Conference hosted by CarX LLC<img src="https://cdn.brandfetch.io/idr0bI_5IK/w/180/h/180/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1761086508101" width=30 height=30 align="right" />
 
 - 180+ positive reviews on Avito
+<iframe src="https://swdgts.ru/bd66a5a00721fa0fb18de8a0ebb907fa" width="100%" height="700" frameborder="0"></iframe>
 - Games published on Itch.io & VK Play
 
 ---
