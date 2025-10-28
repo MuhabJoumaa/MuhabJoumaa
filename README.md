@@ -180,7 +180,7 @@ _Published on Itch.io and VK Play._
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhabJoumaa&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhabJoumaa)
 
 ## Portfolio
 
