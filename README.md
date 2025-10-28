@@ -180,8 +180,6 @@ _Published on Itch.io and VK Play._
 
 ## GitHub Stats
 
-![MuhabJoumaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhabJoumaa&theme=vue-dark&hide_border=true)
-
 ![MuhabJoumaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhabJoumaa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Portfolio
