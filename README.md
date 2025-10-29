@@ -141,7 +141,7 @@ _Published on Itch.io and VK Play._
 
 - 180+ positive reviews on Avito
 
-<img src="https://i.postimg.cc/fRH3vRW8/avito-reviews.jpg" width=350 height=350 align="center" />
+<img src="https://i.postimg.cc/fRH3vRW8/avito-reviews.jpg" width=350 height=450 align="center" />
 
 - Games published on Itch.io & VK Play
 
