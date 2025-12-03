@@ -158,8 +158,8 @@ _Published on Itch.io and VK Play._
 
 - **Arabic:** Native
 - **English:** B2-C1
-- **German:** B1
 - **Russian:** B2
+- **German:** B1
 - **French:** A1
 
 ---
