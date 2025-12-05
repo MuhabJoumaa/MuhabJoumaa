@@ -194,8 +194,7 @@ _Published on Itch.io and VK Play._
 [![VK Play](https://img.shields.io/badge/VK_Play-%230077FF.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vkplay.ru/play/game/the_green_one)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mohabjm)
 <a href="https://www.avito.ru/nizhniy_novgorod/predlozheniya_uslug/pomosch_po_programmirovaniyu_3411355828" style="background-color: white"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Avito_logo.svg" width=80 height=80 /></a>
-[![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?style=for-the-badge&logo=artstation&logoColor=white)](https://muhabjoumaa.artstation.com)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13718162)
+[![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?style=for-the-badge&logo=artstation&logoColor=white)](https://muhabjoumaa.artstation.com) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13718162)
 
 <p align="center">
   <em>“Striving to turn complex ideas into interactive experiences and innovative solutions.”</em>
