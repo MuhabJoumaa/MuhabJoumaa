@@ -4,7 +4,7 @@
 
 ### 🎮 Game & Software Developer | Applied Mathematics Enthusiast
 
-Dedicated Java & C++ software developer and mathematics expert with 2+ years of experience building complex applications—particularly games and custom game engines—across web, mobile, and desktop. I thrive on problem-solving, multithreading, and implementing advanced algorithms. I am passionate about delivering high-quality solutions and am always eager to learn and innovate.
+Dedicated Java & C++ software developer and mathematics expert with almost two years of experience building complex applications—particularly games and custom game engines—across web, mobile, and desktop. I thrive on problem-solving, multithreading, and implementing advanced algorithms. I am passionate about delivering high-quality solutions and am always eager to learn and innovate.
 
 ---
 
