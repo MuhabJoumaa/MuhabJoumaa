@@ -16,13 +16,10 @@ Dedicated Java & C++ software developer and mathematics expert with almost two y
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Assembly](https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white)
-![Pascal](https://img.shields.io/badge/Pascal-%23E3F171.svg?style=for-the-badge&logo=delphi&logoColor=black)
-![Clojure](https://img.shields.io/badge/Clojure-%23239120.svg?style=for-the-badge&logo=clojure&logoColor=white)
 
 ### Web Technologies & Data Exchange
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
