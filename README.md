@@ -153,11 +153,11 @@ _Published on Itch.io and VK Play._
 
 ## 🗣️ Languages
 
-- **Arabic:** Native
-- **English:** B2-C1
-- **Russian:** B2
-- **German:** B1
-- **French:** A1
+- **Arabic 🇸🇾:** Native
+- **English 🇬🇧:** B2-C1
+- **Russian 🇷🇺:** B2
+- **German 🇩🇪:** B1
+- **French 🇫🇷:** A1
 
 ---
 
