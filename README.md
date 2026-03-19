@@ -147,7 +147,7 @@ _Published on Itch.io and VK Play._
 ## 📘 Education
 
 **B.Sc. Computer Technologies and Applied Mathematics**  
-*Kuban State University, Krasnodar, Russia (2020–2024, GPA: 91.2%)*
+*Kuban State University, Krasnodar, Russia (2019–2024, GPA: 91.2%)*
 
 ---
 
