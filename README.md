@@ -163,10 +163,12 @@ _Published on Itch.io and VK Play._
 
 ## 📜 Certifications
 
+- IBM Cloud Essentials (2026)
+- Goethe in German - CEFR B1 (2026)
 - Duolingo English Test - CEFR B2 (2025)
-- TOEFL English (2019)
-- Goethe German (2024)
+- Goethe in German - CEFR A1 (2024)
 - Pre-university Russian Engineering Course (2020)
+- TOEFL in English (2019)
 - Computer Science Olympiad Training (2017)
 - *In Preparation: AWS Certified Solutions Architect*
 
