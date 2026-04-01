@@ -163,6 +163,7 @@ _Published on Itch.io and VK Play._
 
 ## 📜 Certifications
 
+- Microsoft Azure Fundamentals AZ-900 (2026)
 - IBM Cloud Essentials (2026)
 - Goethe in German - CEFR B1 (2026)
 - Duolingo English Test - CEFR B2 (2025)
