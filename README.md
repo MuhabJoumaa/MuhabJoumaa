@@ -170,7 +170,7 @@ _Published on Itch.io and VK Play._
 - Goethe in German - CEFR A1 (2024)
 - Pre-university Russian Engineering Course (2020)
 - TOEFL in English (2019)
-- Computer Science Olympiad Training (2017)
+- Reaching the penultimate stage of the Informatics Olympiad (2017)
 - *In Preparation: AWS Certified Solutions Architect*
 
 ---
