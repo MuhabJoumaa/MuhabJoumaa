@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=200&section=header&text=Muhab%20Joumaa&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Game%20Developer%20%7C%20Software%20Engineer%20%7C%20Applied%20Mathematics&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=200&section=header&text=Muhab%20Joumaa&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Game%20Developer%20%7C%20Software%20Engineer%20%7C%20Applied%20Mathematician&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=C%2B%2B+%7C+Java+%7C+OpenGL+%7C+Game+Engine+Dev;Machine+Learning+%7C+Cloud+%7C+DevOps;Turning+complex+ideas+into+interactive+experiences)](https://git.io/typing-svg)
 
