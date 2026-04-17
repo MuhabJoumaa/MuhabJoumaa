@@ -22,10 +22,6 @@
 
 > Dedicated software developer with a background in **Applied Mathematics**, specializing in game engines, 3D graphics (OpenGL), and complex system design. Nearly two years of professional experience at **CarX LLC** and an extensive freelance track record with **180+ verified reviews**. Passionate about low-level programming, multithreading, and machine learning.
 
-```
-
-🎓 B.Sc. Computer Technologies & Applied Mathematics — GPA: 91.2%
-```
 
 ---
 
@@ -278,8 +274,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=28 height=28 />
-&nbsp;**Windows** &nbsp;•&nbsp; **Agile** &nbsp;•&nbsp; **MPI & MPJ** &nbsp;•&nbsp; **JNI**
 
 ### 📐 Mathematical Modeling
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width=32 height=32 /> **MATLAB** &nbsp;
@@ -370,7 +364,7 @@
 
 > **Network:** HTTP/S &nbsp;•&nbsp; FTP &nbsp;•&nbsp; POP3 &nbsp;•&nbsp; IMAP &nbsp;•&nbsp; SMTP &nbsp;
 
-> **Other:** OOP &nbsp;•&nbsp; UML &nbsp;•&nbsp; Multithreading &nbsp;•&nbsp; DSA (Data Structures & Algorithms)
+> **Other:** OOP &nbsp;•&nbsp; UML &nbsp;•&nbsp; Multithreading &nbsp;•&nbsp; DSA (Data Structures & Algorithms) &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=28 height=28 />**Windows** &nbsp;•&nbsp; **Agile** &nbsp;•&nbsp; **MPI & MPJ** &nbsp;•&nbsp; **JNI**
 
 ---
 
