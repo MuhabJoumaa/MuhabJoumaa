@@ -86,7 +86,7 @@
 
 
 <img src="https://f004.backblazeb2.com/file/The-Green-One-Game/1000016910.png" style="background-color: white" width=40 height=40 />
-&nbsp;**GLSL** &nbsp;•&nbsp; **BGI / WinBGIm** &nbsp;•&nbsp; **3D Game Programming**
+&nbsp;GLSL &nbsp;•&nbsp; BGI / WinBGIm&nbsp;•&nbsp; 3D Game Programming
 
 ### 🌐 Web & Frameworks
 
