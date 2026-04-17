@@ -364,12 +364,12 @@
 
 ![Microsoft Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-
 &nbsp;<img src="https://upload.wikimedia.org/wikipedia/fr/3/32/Staruml_logo.png" width=28 height=28 /> **StarUML** &nbsp;•&nbsp;
 <img src="https://www.visual-prolog.com/favicon.ico" width=20 height=20 /> **Visual Prolog** &nbsp;•&nbsp;
 <img src="https://dl.flathub.org/media/edu/stanford/protege/5f6cadb928e1e8ffeb467def1ae00020/icons/128x128/edu.stanford.protege.png" width=28 height=28 /> **Protégé** &nbsp;•&nbsp; **SSMS** &nbsp;•&nbsp; **MySQL Workbench** &nbsp;•&nbsp; **BPwin**
 
 > **Network:** HTTP/S &nbsp;•&nbsp; FTP &nbsp;•&nbsp; POP3 &nbsp;•&nbsp; IMAP &nbsp;•&nbsp; SMTP &nbsp;•&nbsp;
+
 > **Other:** OOP &nbsp;•&nbsp; UML &nbsp;•&nbsp; Multithreading &nbsp;•&nbsp; DSA
 
 ---
