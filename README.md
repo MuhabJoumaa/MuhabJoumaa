@@ -387,7 +387,7 @@ A full-featured engine built from scratch featuring motion physics, shadow & fog
 <img src="https://the-green-one-game.s3.us-west-004.backblazeb2.com/%D0%B8%D0%B3%D1%80%D0%B0.jpg" width="100%" style="border-radius:8px" />
 </a>
 
-Cross-platform multiplayer game with custom engine, advanced social features, and Blender-crafted 3D assets. Published on **Itch.io** and **VK Play**.
+Online game with custom engine, advanced social features, and Blender-crafted 3D assets. Published on **Itch.io** and **VK Play**.
 
 **Stack:** `Java` `JavaFX` `Blender` `Multithreading`
 
