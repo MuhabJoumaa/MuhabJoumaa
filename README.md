@@ -25,7 +25,6 @@
 ```
 
 🎓 B.Sc. Computer Technologies & Applied Mathematics — GPA: 91.2%
-🌐 Arabic · English · Russian · German · French
 ```
 
 ---
@@ -370,7 +369,8 @@
 <img src="https://www.visual-prolog.com/favicon.ico" width=20 height=20 /> **Visual Prolog** &nbsp;•&nbsp;
 <img src="https://dl.flathub.org/media/edu/stanford/protege/5f6cadb928e1e8ffeb467def1ae00020/icons/128x128/edu.stanford.protege.png" width=28 height=28 /> **Protégé** &nbsp;•&nbsp; **SSMS** &nbsp;•&nbsp; **MySQL Workbench** &nbsp;•&nbsp; **BPwin**
 
-> **Network:** HTTP/S &nbsp;•&nbsp; FTP &nbsp;•&nbsp; POP3 &nbsp;•&nbsp; IMAP &nbsp;•&nbsp; SMTP &nbsp;•&nbsp; **Other:** OOP &nbsp;•&nbsp; UML &nbsp;•&nbsp; Multithreading &nbsp;•&nbsp; DSA
+> **Network:** HTTP/S &nbsp;•&nbsp; FTP &nbsp;•&nbsp; POP3 &nbsp;•&nbsp; IMAP &nbsp;•&nbsp; SMTP &nbsp;•&nbsp;
+> **Other:** OOP &nbsp;•&nbsp; UML &nbsp;•&nbsp; Multithreading &nbsp;•&nbsp; DSA
 
 ---
 
