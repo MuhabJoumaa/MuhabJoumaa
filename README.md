@@ -364,7 +364,7 @@
 
 > **Network:** HTTP/S &nbsp;•&nbsp; FTP &nbsp;•&nbsp; POP3 &nbsp;•&nbsp; IMAP &nbsp;•&nbsp; SMTP &nbsp;
 
-> **Other:** OOP &nbsp;•&nbsp; UML &nbsp;•&nbsp; Multithreading &nbsp;•&nbsp; DSA (Data Structures & Algorithms) &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=28 height=28 />**Windows** &nbsp;•&nbsp; **Agile** &nbsp;•&nbsp; **MPI & MPJ** &nbsp;•&nbsp; **JNI**
+> **Other:** OOP &nbsp;•&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" style="background-color: white" width=45 height=45 />UML &nbsp;•&nbsp; Multithreading &nbsp;•&nbsp; DSA (Data Structures & Algorithms) &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=28 height=28 />Windows &nbsp;•&nbsp; Agile &nbsp;•&nbsp; MPI & MPJ &nbsp;•&nbsp; JNI
 
 ---
 
