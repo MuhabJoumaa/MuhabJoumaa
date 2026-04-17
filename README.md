@@ -2,44 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=200&section=header&text=Muhab%20Joumaa&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Game%20Developer%20%7C%20Software%20Engineer%20%7C%20Applied%20Mathematics&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%" />
 
-[
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=C%2B%2B+%7C+Java+%7C+OpenGL+%7C+Game+Engine+Dev;Machine+Learning+%7C+Cloud+%7C+DevOps;Turning+complex+ideas+into+interactive+experiences)
-
-](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=C%2B%2B+%7C+Java+%7C+OpenGL+%7C+Game+Engine+Dev;Machine+Learning+%7C+Cloud+%7C+DevOps;Turning+complex+ideas+into+interactive+experiences)](https://git.io/typing-svg)
 
 <br/>
 
-[
-
-![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
-
-](https://muhab-joumaa.itch.io)
-[
-
-![VK Play](https://img.shields.io/badge/VK_Play-%230077FF.svg?style=for-the-badge&logo=vk&logoColor=white)
-
-](https://vkplay.ru/play/game/the_green_one)
-[
-
-![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)
-
-](https://www.kaggle.com/mohabjm)
-[
-
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-
-](https://stackoverflow.com/users/13718162)
-[
-
-![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?style=for-the-badge&logo=artstation&logoColor=white)
-
-](https://muhabjoumaa.artstation.com)
-[
-
-![Codeforces](https://img.shields.io/badge/-Codeforces-1f1c1c?style=for-the-badge&logo=codeforces&logoColor=white)
-
-](https://codeforces.com/profile/mohaboko31)
+[![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://muhab-joumaa.itch.io)
+[![VK Play](https://img.shields.io/badge/VK_Play-%230077FF.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vkplay.ru/play/game/the_green_one)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mohabjm)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13718162)
+[![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?style=for-the-badge&logo=artstation&logoColor=white)](https://muhabjoumaa.artstation.com)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1f1c1c?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mohaboko31)
 <a href="https://www.avito.ru/nizhniy_novgorod/predlozheniya_uslug/pomosch_po_programmirovaniyu_3411355828"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Avito_logo.svg" width=80 height=30 /></a>
 
 </div>
