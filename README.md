@@ -410,6 +410,12 @@ Enhanced Snake for PC & Android with LinkedList-based architecture using Java Sw
 <tr>
 <td width="50%" valign="top">
 
+### 🖥️ Assembly Projects — MASM / TASM
+2D game (MASM16), keyboard interrupt handler (TASM), real-time OS simulation (MASM32).
+
+</td>
+<td width="50%" valign="top">
+
 ### 🧭 Mire — Text Adventure Game
 Single- and multiplayer text adventure game built entirely from scratch in Clojure. Players explore their surroundings, navigate in different directions, earn money, and engage in combat with other players.
 
@@ -418,12 +424,6 @@ Single- and multiplayer text adventure game built entirely from scratch in Cloju
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🖥️ Assembly Projects — MASM / TASM
-2D game (MASM16), keyboard interrupt handler (TASM), real-time OS simulation (MASM32).
-
-</td>
 <td width="50%" valign="top">
 
 ### 📊 Other Notable Work
