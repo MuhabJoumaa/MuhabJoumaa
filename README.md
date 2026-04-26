@@ -34,9 +34,7 @@
 
 
 
-
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 
 
 
@@ -44,9 +42,7 @@
 
 
 
-
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
 
 
 
@@ -54,9 +50,7 @@
 
 
 
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 
 
 
@@ -64,9 +58,7 @@
 
 
 
-
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
 
 
 
@@ -78,7 +70,6 @@
 
 
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-
 
 
 
@@ -95,9 +86,7 @@
 
 
 
-
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
-
 
 
 
@@ -105,9 +94,7 @@
 
 
 
-
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
 
 
 
@@ -115,9 +102,7 @@
 
 
 
-
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
 
 
 
@@ -125,9 +110,7 @@
 
 
 
-
 ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
-
 
 
 
@@ -142,14 +125,11 @@
 
 
 
-
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
 
-
 ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
 
 
 
@@ -163,9 +143,7 @@
 
 
 
-
 ![JDBC](https://img.shields.io/badge/JDBC-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
 
 
 
@@ -173,14 +151,11 @@
 
 
 
-
 ![Mockito](https://img.shields.io/badge/Mockito-%2325A162.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
 
-
 ![STL](https://img.shields.io/badge/C++_STL-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 
 
 
@@ -195,9 +170,7 @@
 
 
 
-
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 
 
 
@@ -205,14 +178,11 @@
 
 
 
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 
-
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
 
 
 
@@ -228,9 +198,7 @@
 
 
 
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
 
 
 
@@ -238,9 +206,7 @@
 
 
 
-
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
 
 
 
@@ -248,9 +214,7 @@
 
 
 
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
 
 
 
@@ -265,9 +229,7 @@
 
 
 
-
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
 
 
 
@@ -290,9 +252,7 @@
 
 
 
-
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 
 
 
@@ -300,9 +260,7 @@
 
 
 
-
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-
 
 
 
@@ -310,9 +268,7 @@
 
 
 
-
 ![Google Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
-
 
 
 
@@ -320,9 +276,7 @@
 
 
 
-
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-
 
 
 
@@ -330,9 +284,7 @@
 
 
 
-
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-blue?style=for-the-badge&logo=codeblocks&logoColor=white)
-
 
 
 
@@ -340,9 +292,7 @@
 
 
 
-
 ![Git](https://img.shields.io/badge/Git-%23121011.svg?style=for-the-badge&logo=git&logoColor=white)
-
 
 
 
@@ -350,15 +300,13 @@
 
 
 
-
 ![Visual Paradigm](https://img.shields.io/badge/Visual_Paradigm-%23FF0000.svg?style=for-the-badge&logoColor=white)
-
 
 
 
 ![Microsoft Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-&nbsp;<img src="https://upload.wikimedia.org/wikipedia/fr/3/32/Staruml_logo.png" width=28 height=28 /> **StarUML** &nbsp;•&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/fr/3/32/Staruml_logo.png" width=28 height=28 /> **StarUML** &nbsp;•&nbsp;
 <img src="https://www.visual-prolog.com/favicon.ico" width=20 height=20 /> **Visual Prolog** &nbsp;•&nbsp;
 <img src="https://dl.flathub.org/media/edu/stanford/protege/5f6cadb928e1e8ffeb467def1ae00020/icons/128x128/edu.stanford.protege.png" width=28 height=28 /> **Protégé** &nbsp;•&nbsp; **SSMS** &nbsp;•&nbsp; **MySQL Workbench** &nbsp;•&nbsp; **BPwin**
 
