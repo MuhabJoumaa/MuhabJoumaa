@@ -12,6 +12,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13718162)
 [![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?style=for-the-badge&logo=artstation&logoColor=white)](https://muhabjoumaa.artstation.com)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1f1c1c?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mohaboko31)
+[![TheGitCity](https://img.shields.io/badge/%F0%9F%8F%99%EF%B8%8F_GitCity-B5F03A?style=for-the-badge&labelColor=111111)](https://www.thegitcity.com/dev/muhabjoumaa)
 <a href="https://www.avito.ru/nizhniy_novgorod/predlozheniya_uslug/pomosch_po_programmirovaniyu_3411355828"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Avito_logo.svg" width=80 height=30 /></a>
 
 </div>
