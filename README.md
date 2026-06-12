@@ -432,9 +432,9 @@ Consistent 5-star feedback across 180+ projects on Avito.
 | Language | Level |
 |----------|-------|
 | 🇸🇦 Arabic | Native |
-| 🇬🇧 English | B2 |
+| 🇬🇧 English | B2+ |
 | 🇷🇺 Russian | B2 |
-| 🇩🇪 German | B1-B2 |
+| 🇩🇪 German | B1+ |
 | 🇫🇷 French | A2 |
 
 </td>
