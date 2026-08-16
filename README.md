@@ -60,7 +60,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/fr/3/32/Staruml_logo.png" width=28 height=28 /> **StarUML** &nbsp;•&nbsp; <img src="https://www.visual-prolog.com/favicon.ico" width=20 height=20 /> **Visual Prolog** &nbsp;•&nbsp; <img src="https://dl.flathub.org/media/edu/stanford/protege/5f6cadb928e1e8ffeb467def1ae00020/icons/128x128/edu.stanford.protege.png" width=28 height=28 /> **Protégé** &nbsp;•&nbsp; **SSMS** &nbsp;•&nbsp; **MySQL Workbench** &nbsp;•&nbsp; **BPwin**
 
-> **Network:** HTTP/S &nbsp;•&nbsp; FTP &nbsp;•&nbsp; POP3 &nbsp;•&nbsp; IMAP &nbsp;•&nbsp; SMTP &nbsp;
+> **Network:** HTTP/S &nbsp;•&nbsp; FTP &nbsp;•&nbsp; POP3 &nbsp;•&nbsp; IMAP &nbsp;•&nbsp; SMTP &nbsp; TCP/IP
 
 > **Other:** OOP &nbsp;•&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" style="background-color: white" width=45 height=45 />UML &nbsp;•&nbsp; Multithreading &nbsp;•&nbsp; DSA (Data Structures & Algorithms) &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=28 height=28 />Windows &nbsp;•&nbsp; Agile &nbsp;•&nbsp; MPI & MPJ &nbsp;•&nbsp; JNI
 
