@@ -220,7 +220,9 @@ Consistent 5-star feedback across 180+ projects on Avito.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=120&section=footer&text=Let's+Build+Something+Extraordinary&fontSize=22&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" width="100%" />
 
-![Profile Views from 15/08/2026](https://komarev.com/ghpvc/?username=MuhabJoumaa&color=blue)
+![Profile Views from 15/08/2026]
+
+(https://komarev.com/ghpvc/?username=MuhabJoumaa&color=blue)
 
 *"Striving to turn complex ideas into interactive experiences and innovative solutions."*
 
