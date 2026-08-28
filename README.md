@@ -87,7 +87,7 @@ A full-featured engine built from scratch featuring motion physics, shadow & fog
 
 Online game with custom engine, advanced social features, and Blender-crafted 3D assets. Published on **Itch.io** and **VK Play**.
 
-**Stack:** `Java` `Java AWT` `JavaFX` `C++` `HTML/CSS/JS Website` `Pascal` `Blender`
+**Stack:** `Java` `Java AWT` `JavaFX` `C++` `HTML/CSS/JS Website` `Object Pascal` `Blender`
 
 </td>
 </tr>
