@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-> Dedicated software developer with a background in **Applied Mathematics**, specializing in game engines, 3D graphics (OpenGL), and complex system design. Nearly two years of professional experience at **CarX LLC** and an extensive freelance track record with **180+ verified reviews**. Passionate about low-level programming, multithreading, and machine learning.
+> Dedicated software developer with a background in **Applied Mathematics**, specializing in game engines, 3D graphics (OpenGL), and complex system design. Nearly 1,5 of professional experience at **CarX LLC** and an extensive freelance track record with **180+ verified reviews**. Passionate about low-level programming, multithreading, and machine learning.
 
 ---
 
