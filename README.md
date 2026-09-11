@@ -543,8 +543,8 @@ Mehr als 180 verifizierte Bewertungen aus Freelance-Projekten in Softwareentwick
 |---|---|---|---|---|
 | Arabic | Arabisch | Арабский | العربية | Native |
 | English | Englisch | Английский | الإنجليزية | B2+ |
-| Russian | Russisch | Русский | الروسية | B2 |
-| German | Deutsch | Немецкий | الألمانية | B1+ |
+| Russian | Russisch | Русский | الروسية | B2+ |
+| German | Deutsch | Немецкий | الألمانية | B2 |
 | French | Französisch | Французский | الفرنسية | A2 |
 
 ---
