@@ -2,7 +2,7 @@ name: Update Most Used Languages
 
 on:
   schedule:
-    - cron: "45 22 * * *"
+    - cron: "0 */5 * * *"
   workflow_dispatch:
 
 permissions:
