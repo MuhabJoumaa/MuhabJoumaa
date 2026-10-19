@@ -588,7 +588,7 @@ Mehr als 180 verifizierte Bewertungen aus Freelance-Projekten in Softwareentwick
 
 ![](https://nirzak-streak-stats.vercel.app/?user=MuhabJoumaa&theme=gotham&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhabJoumaa&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Most Used Languages](./profile/top-langs.svg)
 
 </div>
 
