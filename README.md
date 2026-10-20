@@ -584,9 +584,7 @@ Mehr als 180 verifizierte Bewertungen aus Freelance-Projekten in Softwareentwick
 
 <div align="center">
 
-![Stats](profile/stats.svg)
-
-![Most Used Languages](profile/most-used-langs.svg)
+![Stats](profile/github-dashboard.png)
 
 </div>
 
