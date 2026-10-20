@@ -42,6 +42,9 @@ jobs:
       - name: Make animated github stats dashboard
         run: python scripts/make_animated_github_stats_dashboard.py
 
+      - name: Add glow particles
+        run: python scripts/add_glow_particles.py
+
       - name: Commit updated cards
         run: |
           git config user.name "github-actions[bot]"
@@ -50,5 +53,6 @@ jobs:
           git add profile/stats.svg
           git add profile/github-dashboard.png
           git add profile/github-dashboard.gif
+          git add profile/github-dashboard-glow.gif
           git diff --staged --quiet || git commit -m "Update statistics cards"
           git push
