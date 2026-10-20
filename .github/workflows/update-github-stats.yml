@@ -33,11 +33,14 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install playwright pillow
+          pip install playwright pillow numpy
           playwright install --with-deps chromium
 
       - name: Compose stats
         run: python scripts/compose_github_stats.py
+
+      - name: Make animated github stats dashboard
+        run: python scripts/make_animated_github_stats_dashboard.py
 
       - name: Commit updated cards
         run: |
@@ -46,5 +49,6 @@ jobs:
           git add profile/most-used-langs.svg
           git add profile/stats.svg
           git add profile/github-dashboard.png
+          git add profile/github-dashboard.gif
           git diff --staged --quiet || git commit -m "Update statistics cards"
           git push
