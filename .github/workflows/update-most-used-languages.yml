@@ -31,11 +31,18 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Install image processing libraries
+        run: python -m pip install Pillow CairoSVG
+
+      - name: Compose stats
+        run: python scripts/compose_github_stats.py
+
       - name: Commit updated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/most-used-langs.svg
           git add profile/stats.svg
+          git add profile/github-dashboard.png
           git diff --staged --quiet || git commit -m "Update statistics cards"
           git push
