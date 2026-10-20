@@ -31,8 +31,10 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Install image processing libraries
-        run: python -m pip install Pillow CairoSVG
+      - name: Install dependencies
+        run: |
+          pip install playwright pillow
+          playwright install --with-deps chromium
 
       - name: Compose stats
         run: python scripts/compose_github_stats.py
