@@ -22,6 +22,16 @@
 
 ---
 
+# 📊 GitHub Stats | GitHub-Statistiken | Статистика GitHub | إحصائيات GitHub
+
+<div align="center">
+
+![Stats](profile/github-dashboard.png)
+
+</div>
+
+---
+
 # 👨‍💻 About Me | Über mich | Обо мне | نبذة عني
 
 ### 🇬🇧 English
@@ -577,16 +587,6 @@ Mehr als 180 verifizierte Bewertungen aus Freelance-Projekten in Softwareentwick
 | Mathematical Software | Mathematische Software | Математическое программное обеспечение | البرمجيات الرياضية |
 | Complex Systems | Komplexe Systeme | Сложные системы | الأنظمة المعقدة |
 | Developer Tools | Entwicklertools | Инструменты разработчика | أدوات المطورين |
-
----
-
-# 📊 GitHub Stats | GitHub-Statistiken | Статистика GitHub | إحصائيات GitHub
-
-<div align="center">
-
-![Stats](profile/github-dashboard.png)
-
-</div>
 
 ---
 
