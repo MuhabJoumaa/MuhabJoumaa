@@ -26,7 +26,7 @@
 
 <div align="center">
 
-![Stats](profile/github-dashboard.png)
+![Stats](profile/github-dashboard.gif)
 
 </div>
 
