@@ -111,26 +111,71 @@ radius = max(2, round(5 * scale))
 
 object_center = None
 object_radius = 0
-margin = round(height * 0.03)
 free_areas = []
-for x, y, w, h in rects:
-    area = (x, y + h + margin, w, height - (y + h + margin) - margin)
-    blocked = any(
-        ox < area[0] + area[2] and ox + ow > area[0]
-        and oy < area[1] + max(area[3], 0) and oy + oh > area[1]
-        for ox, oy, ow, oh in rects
-    )
-    if area[3] > 0 and not blocked:
-        free_areas.append(area)
 
-best = max(free_areas, key=lambda a: a[2] * a[3], default=None)
-if OBJECT_ENABLED and best is not None and best[3] >= 40:
-    object_center = (best[0] + best[2] / 2, best[1] + best[3] / 2)
-    object_radius = min(best[2], best[3]) * 0.34 * OBJECT_SCALE
-    objects = [
-        (*make_shape(OBJECT_OUTER), 1.0, 1, OBJECT_COLOR),
-        (*make_shape(OBJECT_INNER), 0.5, -1, OBJECT_INNER_COLOR),
-    ]
+if OBJECT_ENABLED:
+    xs = sorted({
+        0,
+        width,
+        *(x for x, y, w, h in rects),
+        *(x + w for x, y, w, h in rects),
+    })
+
+    ys = sorted({
+        0,
+        height,
+        *(y for x, y, w, h in rects),
+        *(y + h for x, y, w, h in rects),
+    })
+
+    for i, x1 in enumerate(xs[:-1]):
+        for x2 in xs[i + 1:]:
+            for j, y1 in enumerate(ys[:-1]):
+                for y2 in ys[j + 1:]:
+                    area_w = x2 - x1
+                    area_h = y2 - y1
+
+                    if area_w < 60 or area_h < 60:
+                        continue
+
+                    blocked = any(
+                        x < x2
+                        and x + w > x1
+                        and y < y2
+                        and y + h > y1
+                        for x, y, w, h in rects
+                    )
+
+                    if not blocked:
+                        free_areas.append(
+                            (area_w * area_h, x1, y1, area_w, area_h)
+                        )
+
+    best = max(free_areas, default=None)
+
+    if best is not None:
+        _, x, y, area_w, area_h = best
+
+        object_center = (
+            x + area_w / 2,
+            y + area_h / 2,
+        )
+
+        object_radius = min(area_w, area_h) * 0.34 * OBJECT_SCALE
+        objects = [
+            (
+                *make_shape(OBJECT_OUTER),
+                1.0,
+                1,
+                OBJECT_COLOR,
+            ),
+            (
+                *make_shape(OBJECT_INNER),
+                0.5,
+                -1,
+                OBJECT_INNER_COLOR,
+            ),
+        ]
 
 masks = []
 grids = []
