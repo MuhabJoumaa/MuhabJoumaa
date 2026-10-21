@@ -2,7 +2,7 @@ name: Update Stats Cards
 
 on:
   schedule:
-    - cron: "17 */5 * * *"
+    - cron: "17 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -42,6 +42,9 @@ jobs:
       - name: Make animated github stats dashboard
         run: python scripts/make_animated_github_stats_dashboard.py
 
+      - name: Add glitch and neon and shine effects
+        run: python scripts/add_three_effects.py
+
       - name: Add glow particles
         run: python scripts/add_glow_particles.py
 
@@ -53,6 +56,7 @@ jobs:
           git add profile/stats.svg
           git add profile/github-dashboard.png
           git add profile/github-dashboard.gif
+          git add profile/github-dashboard-fx.gif
           git add profile/github-dashboard-glow.gif
           git diff --staged --quiet || git commit -m "Update statistics cards"
           git push
