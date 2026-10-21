@@ -1,3 +1,4 @@
+import json
 from io import BytesIO
 from pathlib import Path
 
@@ -8,15 +9,22 @@ ROOT = Path(__file__).resolve().parent.parent
 PROFILE = ROOT / "profile"
 
 BACKGROUND = PROFILE / "background.jpg"
-STATS = PROFILE / "stats.svg"
-LANGUAGES = PROFILE / "most-used-langs.svg"
 OUTPUT = PROFILE / "github-dashboard.png"
+LAYOUT = PROFILE / "layout.json"
 
-WIDTH, HEIGHT = 1200, 650
-CARD_MAX_WIDTH = 540
-CARD_MAX_HEIGHT = 400
-GAP = 40
+COLUMNS = [
+    [PROFILE / "stats.svg", PROFILE / "profile-details.svg"],
+    [PROFILE / "most-used-langs.svg"],
+]
+
+WIDTH, HEIGHT = 1200, 720
+MARGIN_X = 40
+MARGIN_TOP = 40
+MARGIN_BOTTOM = 40
+COLUMN_GAP = 40
+CARD_GAP = 20
 CARD_OPACITY = 0.75
+RENDER_SCALE = 3
 
 background = Image.open(BACKGROUND).convert("RGB")
 ratio = max(WIDTH / background.width, HEIGHT / background.height)
@@ -30,32 +38,43 @@ canvas = background.crop((
     left, top, left + WIDTH, top + HEIGHT
 )).convert("RGBA")
 
-cards = []
+rendered = {}
 with sync_playwright() as p:
     browser = p.chromium.launch()
-    page = browser.new_page(device_scale_factor=2)
-    for svg_path in (STATS, LANGUAGES):
-        page.goto(svg_path.resolve().as_uri())
-        page.wait_for_timeout(1500)
-        png = page.locator("svg").first.screenshot(omit_background=True)
-        card = Image.open(BytesIO(png)).convert("RGBA")
-        card.thumbnail((CARD_MAX_WIDTH, CARD_MAX_HEIGHT), Image.Resampling.LANCZOS)
-        alpha = card.getchannel("A").point(lambda a: int(a * CARD_OPACITY))
-        card.putalpha(alpha)
-        cards.append(card)
+    page = browser.new_page(device_scale_factor=RENDER_SCALE)
+    for column in COLUMNS:
+        for svg_path in column:
+            page.goto(svg_path.resolve().as_uri())
+            page.wait_for_timeout(1500)
+            png = page.locator("svg").first.screenshot(omit_background=True)
+            rendered[svg_path] = Image.open(BytesIO(png)).convert("RGBA")
     browser.close()
 
-total_width = sum(c.width for c in cards) + GAP
-max_height = max(c.height for c in cards)
+column_width = (WIDTH - 2 * MARGIN_X - (len(COLUMNS) - 1) * COLUMN_GAP) // len(COLUMNS)
+available = HEIGHT - MARGIN_TOP - MARGIN_BOTTOM
 
-x = (WIDTH - total_width) // 2
-y = (HEIGHT - max_height) // 2
+rects = []
+for column_index, column in enumerate(COLUMNS):
+    natural = [column_width * rendered[path].height / rendered[path].width for path in column]
+    gaps = CARD_GAP * (len(column) - 1)
+    fit = min(1.0, (available - gaps) / sum(natural))
+    card_width = round(column_width * fit)
+    x = MARGIN_X + column_index * (column_width + COLUMN_GAP) + (column_width - card_width) // 2
+    y = MARGIN_TOP
 
-for card in cards:
-    canvas.alpha_composite(card, (x, y))
-    x += card.width + GAP
+    for path in column:
+        card = rendered[path]
+        card_height = round(card_width * card.height / card.width)
+        card = card.resize((card_width, card_height), Image.Resampling.LANCZOS)
+        alpha = card.getchannel("A").point(lambda a: int(a * CARD_OPACITY))
+        card.putalpha(alpha)
+        canvas.alpha_composite(card, (x, y))
+        rects.append([x, y, card_width, card_height])
+        y += card_height + CARD_GAP
 
-OUTPUT.parent.mkdir(parents=True, exist_ok=True)
+LAYOUT.parent.mkdir(parents=True, exist_ok=True)
+LAYOUT.write_text(json.dumps({"canvas": [WIDTH, HEIGHT], "cards": rects}))
+
 canvas.convert("RGB").save(OUTPUT, quality=95)
 
 print(f"Dashboard created: {OUTPUT}")
