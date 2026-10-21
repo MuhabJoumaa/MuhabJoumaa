@@ -34,9 +34,57 @@ GLITCH_SHIFT = 0.012
 GLITCH_SLICES = 5
 GLITCH_BAND = (0.30, 0.70)
 
-STEP_MS = 150
+STEP_MS = 100
 PALETTE_COLORS = 128
 SEED = 11
+
+OBJECT_ENABLED = True
+OBJECT_OUTER = "icosahedron"
+OBJECT_INNER = "cube"
+OBJECT_COLOR = (90, 255, 170)
+OBJECT_INNER_COLOR = (80, 200, 255)
+OBJECT_SPIN_Y = 55
+OBJECT_SPIN_X = 28
+OBJECT_SCALE = 1.0
+CAMERA_DISTANCE = 3.5
+
+
+def make_shape(name):
+    if name == "cube":
+        points = [(x, y, z) for x in (-1, 1) for y in (-1, 1) for z in (-1, 1)]
+    elif name == "octahedron":
+        points = [(1, 0, 0), (-1, 0, 0), (0, 1, 0), (0, -1, 0), (0, 0, 1), (0, 0, -1)]
+    else:
+        phi = (1 + math.sqrt(5)) / 2
+        points = []
+        for a in (-1, 1):
+            for b in (-phi, phi):
+                points += [(0, a, b), (a, b, 0), (b, 0, a)]
+    verts = np.array(points, dtype=np.float64)
+    verts /= np.linalg.norm(verts, axis=1, keepdims=True)
+    distances = np.linalg.norm(verts[:, None] - verts[None, :], axis=2)
+    shortest = distances[distances > 1e-6].min()
+    edges = [
+        (i, j)
+        for i in range(len(verts))
+        for j in range(i + 1, len(verts))
+        if distances[i, j] < shortest * 1.01
+    ]
+    return verts, edges
+
+
+def rotation_matrix(ax, ay):
+    rx = np.array([
+        [1, 0, 0],
+        [0, math.cos(ax), -math.sin(ax)],
+        [0, math.sin(ax), math.cos(ax)],
+    ])
+    ry = np.array([
+        [math.cos(ay), 0, math.sin(ay)],
+        [0, 1, 0],
+        [-math.sin(ay), 0, math.cos(ay)],
+    ])
+    return ry @ rx
 
 base = []
 with Image.open(INPUT) as source:
@@ -60,6 +108,19 @@ rects = [
     for x, y, w, h in cards
 ]
 radius = max(2, round(5 * scale))
+
+object_center = None
+object_radius = 0
+margin = round(height * 0.03)
+free_areas = [(x, y + h + margin, w, height - (y + h + margin) - margin) for x, y, w, h in rects]
+best = max(free_areas, key=lambda a: max(a[3], 0) * a[2])
+if OBJECT_ENABLED and best[3] >= 40:
+    object_center = (best[0] + best[2] / 2, best[1] + best[3] / 2)
+    object_radius = min(best[2], best[3]) * 0.34 * OBJECT_SCALE
+    objects = [
+        (*make_shape(OBJECT_OUTER), 1.0, 1, OBJECT_COLOR),
+        (*make_shape(OBJECT_INNER), 0.5, -1, OBJECT_INNER_COLOR),
+    ]
 
 masks = []
 grids = []
@@ -129,6 +190,39 @@ for kind, index, k, parts, duration in plan:
                 outline=color,
                 width=NEON_WIDTH,
             )
+        obj_light = None
+        if object_center is not None:
+            ease = env ** 0.7
+            obj_core = Image.new("RGB", size, (0, 0, 0))
+            obj_draw = ImageDraw.Draw(obj_core)
+            for verts, edges, size_factor, direction, obj_color in objects:
+                ax = 0.35 + math.radians(OBJECT_SPIN_X * direction * t / 1000)
+                ay = math.radians(OBJECT_SPIN_Y * direction * t / 1000)
+                points = verts @ rotation_matrix(ax, ay).T
+                depth = points[:, 2]
+                persp = CAMERA_DISTANCE / (CAMERA_DISTANCE - depth)
+                reach = object_radius * size_factor * ease
+                px = object_center[0] + points[:, 0] * persp * reach
+                py = object_center[1] - points[:, 1] * persp * reach
+                for a, b in sorted(edges, key=lambda e: depth[e[0]] + depth[e[1]]):
+                    mid = (depth[a] + depth[b]) / 2
+                    bright = (0.3 + 0.7 * (mid + 1) / 2) * ease
+                    line_color = tuple(int(v * bright) for v in obj_color)
+                    obj_draw.line((px[a], py[a], px[b], py[b]), fill=line_color, width=2)
+                for i in range(len(verts)):
+                    bright = (0.4 + 0.6 * (depth[i] + 1) / 2) * ease
+                    dot_color = tuple(int(min(255, v * bright + 40 * bright)) for v in obj_color)
+                    r = 2.4 * persp[i]
+                    obj_draw.ellipse((px[i] - r, py[i] - r, px[i] + r, py[i] + r), fill=dot_color)
+
+            obj_halo = obj_core.filter(ImageFilter.GaussianBlur(3)).point(
+                lambda v: min(255, int(v * 1.3))
+            )
+            obj_wide = obj_core.filter(ImageFilter.GaussianBlur(9)).point(
+                lambda v: min(255, int(v * 1.6))
+            )
+            obj_light = ImageChops.add(ImageChops.add(obj_core, obj_halo), obj_wide)
+
         halo = core.filter(ImageFilter.GaussianBlur(NEON_GLOW)).point(
             lambda v: min(255, int(v * 3))
         )
@@ -137,6 +231,8 @@ for kind, index, k, parts, duration in plan:
         )
         light = ImageChops.add(ImageChops.add(core, halo), wide)
         picture = ImageChops.screen(picture, light)
+        if obj_light is not None:
+            picture = ImageChops.screen(picture, obj_light)
 
         for n, (x, y, w, h) in enumerate(rects):
             start = SHINE_DELAY_MS + n * SHINE_STAGGER_MS
@@ -172,7 +268,8 @@ for position, picture in enumerate(sample):
     sheet.paste(picture, (0, position * height))
 sheet_draw = ImageDraw.Draw(sheet)
 sheet_draw.rectangle((0, height * len(sample), width // 2, sheet.height), fill=NEON_COLOR)
-sheet_draw.rectangle((width // 2, height * len(sample), width, sheet.height), fill=(255, 255, 255))
+sheet_draw.rectangle((width // 2, height * len(sample), width * 3 // 4, sheet.height), fill=(255, 255, 255))
+sheet_draw.rectangle((width * 3 // 4, height * len(sample), width, sheet.height), fill=OBJECT_INNER_COLOR)
 palette = sheet.quantize(
     colors=PALETTE_COLORS, method=Image.Quantize.MEDIANCUT, dither=Image.Dither.NONE
 )
