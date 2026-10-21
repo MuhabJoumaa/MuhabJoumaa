@@ -66,7 +66,7 @@ for column_index, column in enumerate(COLUMNS):
         card = rendered[path]
         card_height = round(card_width * card.height / card.width)
         if path.name == "profile-details.svg":
-            card_height = round(card_height * 1.5)
+            card_height = round(card_height * 1.6)
         card = card.resize((card_width, card_height), Image.Resampling.LANCZOS)
         alpha = card.getchannel("A").point(lambda a: int(a * CARD_OPACITY))
         card.putalpha(alpha)
