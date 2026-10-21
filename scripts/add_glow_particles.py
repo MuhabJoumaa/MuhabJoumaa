@@ -8,7 +8,7 @@ from PIL import Image, ImageChops, ImageDraw, ImageFilter, ImageSequence
 ROOT = Path(__file__).resolve().parent.parent
 PROFILE = ROOT / "profile"
 
-INPUT = PROFILE / "github-dashboard.gif"
+INPUT = PROFILE / "github-dashboard-fx.gif"
 OUTPUT = PROFILE / "github-dashboard-glow.gif"
 
 PARTICLE_COUNT = 30
@@ -86,7 +86,7 @@ for index, duration in timeline:
     frames.append(ImageChops.screen(base[index][0], light))
     durations.append(max(20, int(round(duration / 10) * 10)))
 
-sample = frames[:: max(1, len(frames) // 10)]
+sample = [frames[0]] + frames[:: max(1, len(frames) // 10)]
 sheet = Image.new("RGB", (width, height * len(sample)))
 for position, picture in enumerate(sample):
     sheet.paste(picture, (0, position * height))
