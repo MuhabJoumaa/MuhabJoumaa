@@ -12,8 +12,8 @@ INPUT = PROFILE / "github-dashboard.gif"
 OUTPUT = PROFILE / "github-dashboard-fx.gif"
 LAYOUT = PROFILE / "layout.json"
 
-DEFAULT_CANVAS = (1200, 650)
-DEFAULT_CARDS = [(40, 132, 540, 222), (621, 132, 538, 384)]
+DEFAULT_CANVAS = (1200, 720)
+DEFAULT_CARDS = [(40, 40, 540, 221), (40, 281, 540, 318), (620, 40, 540, 386)]
 
 NEON_COLOR = (90, 255, 170)
 NEON_WIDTH = 2
@@ -112,9 +112,19 @@ radius = max(2, round(5 * scale))
 object_center = None
 object_radius = 0
 margin = round(height * 0.03)
-free_areas = [(x, y + h + margin, w, height - (y + h + margin) - margin) for x, y, w, h in rects]
-best = max(free_areas, key=lambda a: max(a[3], 0) * a[2])
-if OBJECT_ENABLED and best[3] >= 40:
+free_areas = []
+for x, y, w, h in rects:
+    area = (x, y + h + margin, w, height - (y + h + margin) - margin)
+    blocked = any(
+        ox < area[0] + area[2] and ox + ow > area[0]
+        and oy < area[1] + max(area[3], 0) and oy + oh > area[1]
+        for ox, oy, ow, oh in rects
+    )
+    if area[3] > 0 and not blocked:
+        free_areas.append(area)
+
+best = max(free_areas, key=lambda a: a[2] * a[3], default=None)
+if OBJECT_ENABLED and best is not None and best[3] >= 40:
     object_center = (best[0] + best[2] / 2, best[1] + best[3] / 2)
     object_radius = min(best[2], best[3]) * 0.34 * OBJECT_SCALE
     objects = [
