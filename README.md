@@ -549,11 +549,11 @@ Mehr als 180 verifizierte Bewertungen aus Freelance-Projekten in Softwareentwick
 
 ## 🗣️ Languages | Sprachen | Языки | اللغات
 
-**English**: B2+
-**Deutsch**: B2
-**Русский**: B2+
-**العربية**: C2
-**Français**: A2
+- **English**: B2+
+- **Deutsch**: B2
+- **Русский**: B2+
+- **العربية**: C2
+- **Français**: A2
 
 ---
 
