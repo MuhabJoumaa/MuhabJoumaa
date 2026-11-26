@@ -462,6 +462,8 @@ Auszeichnung für das präsentierte Spieleprojekt auf einer Konferenz für Spiel
 
 جائزة عن مشروع اللعبة الذي تم تقديمه في مؤتمر تطوير الألعاب ومحركات الألعاب لعام 2024.
 
+<img src="profile/Gratitude.jpg" width="220" style="border-radius:10px;" />
+
 <br/>
 
 ## 🥇 International Olympiad in Informatics
@@ -481,8 +483,6 @@ Erreichen der vorletzten Runde der **Internationalen Informatik-Olympiade**.
 ### 🇸🇦
 
 الوصول إلى المرحلة قبل النهائية من **الأولمبياد الدولي للمعلوماتية**.
-
-<img src="profile/Gratitude.jpg" width="220" style="border-radius:10px;" />
 
 <br/>
 
