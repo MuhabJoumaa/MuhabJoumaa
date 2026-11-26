@@ -482,6 +482,8 @@ Erreichen der vorletzten Runde der **Internationalen Informatik-Olympiade**.
 
 الوصول إلى المرحلة قبل النهائية من **الأولمبياد الدولي للمعلوماتية**.
 
+<img src="Profile/Gratitude.jpg" width="220" style="border-radius:10px;" />
+
 <br/>
 
 ## ⭐ 180+ Verified Freelance Reviews
