@@ -502,10 +502,6 @@ Mehr als 180 verifizierte Bewertungen aus Freelance-Projekten in Softwareentwick
 
 أكثر من 180 تقييماً موثقاً لمشاريع تطوير البرمجيات والتدريس والعمل الحر.
 
-</td>
-
-<td width="40%" align="center" valign="top">
-
 <img src="https://i.postimg.cc/fRH3vRW8/avito-reviews.jpg" width="220" style="border-radius:10px;" />
 
 </td>
